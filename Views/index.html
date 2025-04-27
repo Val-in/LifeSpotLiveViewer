@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LifeSpot</title>
+    <link href="../Static/CSS/index.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" defer src="../Static/JS/index.js"></script>
+    <!-- Внутренний скрипт с вызовами функций -->
+    <script>
+        sessionHandler();
+    </script>
+</head>
+
+<body>
+<header class="bordered">
+    <h2>LifeSpot — прямые трансляции с улиц</h2>
+    <h1 class="interactive">Поиск видео на странице</h1>
+    <input type="text" oninput="contentFilter() /* Вызов по имени переменной */" size=50>
+    <p>Покажем, что происходит прямо сейчас</p>
+</header>
+
+<div class="bordered">
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/srlpC5tmhYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h3 class="video-title">Нью-Йорк, Брайант Парк</h3>
+    </div>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wCcMcaiRbhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h3 class="video-title">Санкт-Петербург, Невский Проспект</h3>
+    </div>
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JplMzss6_YE&ab_channel=WokiliWanders" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h3 class="video-title">Лондон, автобусный маршрут</h3>
+    </div>
+    <!-- <a href="https://www.youtube.com/watch?v=wCcMcaiRbhM"><button >Санкт-Петербург</button></a>
+    <a href="https://www.youtube.com/watch?v=srlpC5tmhYs"><button>Нью-Йорк</button></a>
+    <a href="https://www.youtube.com/watch?v=JplMzss6_YE&ab_channel=WokiliWanders"><button>Лондон</button></a> -->
+</div>
+</body>
+</html>
