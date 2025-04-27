@@ -26,3 +26,4 @@ D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\refint\L
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot.pdb
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot.genruntimeconfig.cache
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\ref\LifeSpot.dll
+D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot.sourcelink.json
