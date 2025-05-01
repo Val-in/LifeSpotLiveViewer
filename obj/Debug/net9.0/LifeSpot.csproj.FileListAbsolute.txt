@@ -27,3 +27,32 @@ D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot.genruntimeconfig.cache
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\ref\LifeSpot.dll
 D:\本机个人文件\Programming\C#\LifeSpot\LifeSpot\obj\Debug\net9.0\LifeSpot.sourcelink.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\appsettings.Development.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\appsettings.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.staticwebassets.endpoints.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.exe
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.deps.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.runtimeconfig.json
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.dll
+D:\Personal\Programming\C sharp\LifeSpot\bin\Debug\net9.0\LifeSpot.pdb
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.AssemblyInfoInputs.cache
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.AssemblyInfo.cs
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.sourcelink.json
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\scopedcss\bundle\LifeSpot.styles.css
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets.build.json
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets.development.json
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets\msbuild.LifeSpot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets\msbuild.LifeSpot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets\msbuild.build.LifeSpot.props
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LifeSpot.props
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LifeSpot.props
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.dll
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\refint\LifeSpot.dll
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.pdb
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\LifeSpot.genruntimeconfig.cache
+D:\Personal\Programming\C sharp\LifeSpot\obj\Debug\net9.0\ref\LifeSpot.dll

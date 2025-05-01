@@ -1,5 +1,3 @@
-alert("Javascript для страницы 'о проекте' подключен!")
-
 function getReview() {
     // Создадим объект
     let review = {}
