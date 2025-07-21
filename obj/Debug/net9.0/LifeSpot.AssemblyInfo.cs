@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeSpot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10bfc78c8d433965187851fb4ef8acbd4ffa81f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6bac02b161395aafcc26e76383c94a70314bd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeSpot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeSpot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

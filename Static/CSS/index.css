@@ -50,6 +50,10 @@ aside {
 }
 
 body {
+    background-color: slateblue;
+    font-family: 'Trebuchet MS';
+    color: white;
+    text-align: center;
     padding-left: 10%;
     height: 100%;
     min-height: 100vh;
@@ -87,4 +91,23 @@ input {
     margin-top: 0.5em;
     padding-left: 1%;
     padding-top: 1%;
+}
+
+img {
+    border-radius: 75px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+a {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: slateblue;
 }

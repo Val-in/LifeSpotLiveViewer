@@ -25,9 +25,26 @@ function getReview() {
 * Запишем отзыв на страницу 
 * 
 * */
-const writeReview = review => {
-    document.getElementsByClassName('reviews')[0].innerHTML += '    <div class="review-text">\n' +
-        `<p> <i> <b>${review['userName']}</b>  ${review['date']}</i></p>` +
-        `<p>${review['comment']}</p>` +
-        '</div>';
+const writeReview = (review) => {
+    const reviewsContainer = document.getElementById("reviews");
+    const reviewDivision = document.createElement("div");
+    reviewDivision.className = "review-text";
+    
+    reviewDivision.innerHTML = `
+     <p><i><b>${review.userName}</b>  ${review.date}</i></p>
+        <p>${review.comment}</p>
+    `;
+
+    const deleteButton = document.createElement("button");
+    deleteButton.textContent = "X";
+    deleteButton.className = "delete-review-button";
+    deleteButton.onclick = () => {
+        reviewsContainer.removeChild(reviewDivision);
+    };
+
+    // Добавляем кнопку в отзыв
+    reviewDivision.appendChild(deleteButton);
+
+    // Добавляем отзыв в контейнер
+    reviewsContainer.appendChild(reviewDivision);
 }
