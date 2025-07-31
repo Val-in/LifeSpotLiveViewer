@@ -97,6 +97,27 @@ img {
     border-radius: 75px;
 }
 
+.slider {
+    width: 700px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* если надо */
+    margin: 0 auto;
+}
+
+.slider img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* сохраняет пропорции */
+    display: none; /* по умолчанию скрываем */
+}
+
+.slider img.active {
+    display: block; /* показываем только активный слайд */
+}
+
 h2 {
     font-size: 18px;
 }
