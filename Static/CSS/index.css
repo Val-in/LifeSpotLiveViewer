@@ -1,0 +1,150 @@
+body, header, footer, aside, .navbar, .video-container {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    color: #302929;
+}
+
+body {
+    background-color: slateblue;
+    text-align: center;
+    padding-left: 10%;
+    margin-left: 100px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header, footer, .video-container {
+    background-color: pink;
+    padding: 1%;
+}
+
+header {
+    color: #44453f;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    font-size: medium;
+    color: #000;
+    line-height: 1.2;
+}
+
+.navbar p {
+    color: #574e4e;
+    padding-left: 15%;
+    cursor: pointer;
+}
+
+.navbar p:hover {
+    color: #414345;
+}
+
+aside {
+    width: 250px;
+    position: fixed;
+    top: 30px;
+    left: 0;
+    z-index: 1000;
+    overflow-x: hidden;
+    padding-top: 2%;
+    font-size: large;
+}
+
+.video-container {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding: 1%;
+    background-color: pink;
+}
+
+.interactive:hover,
+.interactive:focus {
+    color: blue;
+    text-decoration: underline;
+}
+
+.bordered {
+    border: 2px solid black;
+    background-color: azure;
+    padding: 10px;
+}
+
+input {
+    border: 2px solid darkgrey;
+    border-radius: 2px;
+    outline: none;
+}
+
+.slider {
+    width: 700px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    align-items: center;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slider img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: none;
+    border-radius: 10px;
+}
+
+.slider img.active {
+    display: block;
+}
+
+img {
+    border-radius: 75px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+a {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    color: slateblue;
+    text-decoration: none;
+}
+
+.review-container,
+.review-text {
+    display: block;         
+    margin: 0.5em auto;
+    padding: 1%;
+    background-color: pink;
+    width: 90%;              
+}
+
+.review-button {
+    display: block;          
+    width: 100%;
+    text-align: center;      
+    position: relative;     
+}
+
+.review-button button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: white;
+    color: slateblue;
+}
+
+.review-button button:hover {
+    background-color: lightgray;
+}
